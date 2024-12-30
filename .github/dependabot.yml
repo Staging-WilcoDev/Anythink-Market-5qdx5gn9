@@ -4,3 +4,4 @@ updates:
     directory: 'backend'
     schedule:
       interval: 'daily'
+      
